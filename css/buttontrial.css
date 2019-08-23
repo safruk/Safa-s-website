@@ -1,0 +1,25 @@
+.btn {
+/*  display: -webkit-inline-flex;*/
+  /*display: -ms-inline-flexbox;*/
+  display: inline-flex;
+  /*position: relative;*/
+  background-color: #11999E;
+/*  width: auto;*/
+  color: #fff;
+  border: none;
+/*  overflow: hidden;*/
+  /*transition: all .2s;*/
+  /*font-family: "Montserrat", sans-serif;*/
+  font-weight: 600;
+/*  white-space: nowrap;*/
+  border-radius: 8px;
+  /*font-size: 18px;*/
+  padding: 5px 10px 5px;
+  font: 16px/1.25 "Open Sans",sans-serif;
+  text-decoration: none;
+margin-top:30px;
+
+}
+.btn:hover{
+
+}
